@@ -1,1 +1,1 @@
-All Lecture notes of Object Oriented programming with code snippets
+All Lecture notes of Object Oriented Programming with code snippets.
